@@ -1,0 +1,5 @@
+class Tweet < ActiveRecord::Base
+
+@t = Tweet.all
+
+end
